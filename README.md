@@ -43,6 +43,23 @@ Fig is an add-on, meaning it enhances your existing terminal (iTerm2, VS Code, e
 Warp is a standalone terminal, built from scratch with modern features.
 Warp already has AI-powered autocomplete and IDE-like features, so using Fig with Warp is unnecessary.
 
+App For connection Hosts
+Termius;
+ermius is a modern SSH client and terminal emulator designed for developers and system administrators to securely manage remote servers. It provides a user-friendly interface, cross-device syncing, and advanced security features, making it a powerful alternative to traditional SSH clients like PuTTY or OpenSSH.
+
+Key Features of Termius:
+🔐 Secure SSH, Mosh & Telnet Connections – Easily connect to remote machines.
+💾 Cross-Device Syncing – Access your SSH sessions and credentials from desktop & mobile.
+📂 SFTP Support – Transfer files between local and remote servers.
+⚡ Command Snippets & Autocomplete – Save frequently used commands.
+🛡️ End-to-End Encryption – Securely store credentials with encrypted vaults.
+🖥️ Multi-Platform Support – Available on macOS, Windows, Linux, iOS, and Android.
+
+💡 Who Uses Termius?
+
+DevOps engineers managing remote servers
+Developers who need quick access to cloud instances (AWS, GCP, Azure)
+Sysadmins automating SSH workflows
 
 Draws;
 
